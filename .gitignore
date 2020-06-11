@@ -1,0 +1,100 @@
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+# https://github.com/takari/maven-wrapper#usage-without-binary-jar
+.mvn/wrapper/maven-wrapper.jar
+Skip to content
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@AnaAliceCosta 
+2.9k
+93.4k48.3kgithub/gitignore
+ Code Pull requests 127 Actions Projects 0 Security Insights
+gitignore/Global/Eclipse.gitignore
+@koppor koppor Add apt_generated_test/ (#3193)
+e95b1be on 3 Oct
+@shiftkey@sherzodv@tyutyutyu@aroben@Utumno@segfly@drasolka@rlee287@rafiw@raeglan@mimibar@fhemberger@lukoerfer@leandrodeleite@koppor@jcarsique@jayvdb@harshadsabne@gAmUssA@DenisGorbachev@pangratz@defunkt@cemremengu@arinto@apetresc@alexkaratarakis
+56 lines (42 sloc)  774 Bytes
+ 
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.project
+.classpath
+.recommenders
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# PyDev specific (Python IDE for Eclipse)
+*.pydevproject
+
+# CDT-specific (C/C++ Development Tooling)
+.cproject
+
+# CDT- autotools
+.autotools
+
+# Java annotation processor (APT)
+.factorypath
+
+# PDT-specific (PHP Development Tools)
+.buildpath
+
+# sbteclipse plugin
+.target
+
+# Tern plugin
+.tern-project
+
+# TeXlipse plugin
+.texlipse
+
+# STS (Spring Tool Suite)
+.springBeans
+
+# Code Recommenders
+.recommenders/
+
+# Annotation Processing
+.apt_generated/
+.apt_generated_test/
+
+# Scala IDE specific (Scala & Java development for Eclipse)
+.cache-main
+.scala_dependencies
+.worksheet
+© 2019 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+
